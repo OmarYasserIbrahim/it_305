@@ -22,6 +22,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity {
+    //4568
     ImageView imageView;
     Uri image_uri;
     private static final int PERMISSION_REQUEST = 112;
